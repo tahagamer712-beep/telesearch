@@ -1,0 +1,13 @@
+{
+ "records": 940,
+ "true_pairs": 1354,
+ "predicted_pairs": 1203,
+ "TP": 1203,
+ "FP": 0,
+ "FN": 151,
+ "TN": 439976,
+ "precision": 1.0,
+ "recall": 0.8884785819793205,
+ "false_positive_rate": 0.0,
+ "false_negative_rate": 0.11152141802067947
+}
