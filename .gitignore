@@ -1,0 +1,10 @@
+.env
+data/
+database/
+indexes/
+logs/
+reports/
+cache/
+backups/
+__pycache__/
+*.pyc
