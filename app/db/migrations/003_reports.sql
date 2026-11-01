@@ -1,0 +1,3 @@
+ALTER TABLE reports ADD COLUMN job_id INTEGER;
+ALTER TABLE reports ADD COLUMN size_bytes INTEGER;
+ALTER TABLE reports ADD COLUMN status TEXT NOT NULL DEFAULT 'ready';
